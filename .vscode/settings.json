@@ -1,0 +1,4 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.defaultInterpreterPath": "${env:PORTABLE_ROOT}WPy64-31470\\python\\python.exe"
+}
